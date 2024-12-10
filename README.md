@@ -1,3 +1,4 @@
 # College_Projects-EELU
 ### Information technology _project
-# ![image](https://github.com/user-attachments/assets/492f9c3b-de7f-4935-98d2-8374c5b1c979)
+#![image](https://github.com/user-attachments/assets/0bc8aded-8e4a-4deb-a825-62425f22d1c6)
+
