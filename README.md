@@ -1,5 +1,5 @@
- # Projects for EELU_Unversity
- ##Information Technology (IT)
+ # Projects for EELU_University
+ ## Information Technology (IT)
 
  
 <table align="center">
