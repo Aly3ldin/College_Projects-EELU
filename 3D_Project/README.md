@@ -4,12 +4,16 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+# Task 1:
  
-#  ![Screenshot 2024-12-10 051427](https://github.com/user-attachments/assets/b9d7ed7f-4588-4722-940e-61f751b1e2ca)
+# ![Screenshot 2024-12-13 012938](https://github.com/user-attachments/assets/6979fd3f-1df5-4e67-a952-bfb842ab2c95)
+
 </td>
 <td width="50%" align="center">
+
+# Task 2:
  
- # ![image](https://github.com/user-attachments/assets/453cf84f-306b-495f-a25a-b9732b021b33)
+ # ![Screenshot 2024-12-13 012906](https://github.com/user-attachments/assets/1eea0ff3-fdd1-4e38-8f1b-be72834ebb16)
   </td>
 </tr>
 </table>
